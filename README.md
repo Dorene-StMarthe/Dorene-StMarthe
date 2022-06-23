@@ -1,4 +1,4 @@
-# DoreneSt.Marthe
+# Dorene-StMarthe
 
 <h2>Welcome!</h2>
 
