@@ -11,7 +11,7 @@
 
 <h4> 👩🏽‍🏫 I am an experienced educator that has worked with several teams of diverse experts.
 🎓 Currently I am enrolled at General Assembly and taking an Immersive Software Development course.
-🌱 When I am not infront of the computer, I love to explore the outdoors, create new coffee masterpieces,☕
+🌱 When I am not infront of the computer, I love to explore the outdoors, create new coffee masterpieces, ☕
 (coffee enthusiast over here 👋🏾 )and learn new skills.</h4>
 
 
