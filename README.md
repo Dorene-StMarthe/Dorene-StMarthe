@@ -6,12 +6,13 @@
 <hr>
 <h3>Connect With Me</h3>
 
-<a href="https://www.youtube.com/c/DoreneCodes" target="blank"><img align= "center" src ="https://img.icons8.com/color/344/youtube-play.png" height = 50 /></a><a href="[https://www.youtube.com/c/DoreneCodes](https://www.linkedin.com/in/dorenestmarthe/)" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin.png" height = 50 /></a>
+<a href="https://www.youtube.com/c/DoreneCodes" target="blank"><img align="center" src ="https://img.icons8.com/color/344/youtube-play.png" height = 50 /></a><a href="[https://www.youtube.com/c/DoreneCodes](https://www.linkedin.com/in/dorenestmarthe/)" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin.png" height = 50 /></a><a href="https://www.instagram.com/pslovedorenee/" target="blank"><img align="center" src="https://img.icons8.com/color/344/instagram-new--v1.png" height = 50 /></a>
+
 <hr>
 
-<h4> 👩🏽‍🏫 I am an experienced educator that has worked with several teams of diverse experts.
+<p> 👩🏽‍🏫 I am an experienced educator that has worked with several teams of diverse experts.
 🎓 Currently I am enrolled at General Assembly and taking an Immersive Software Development course.
 🌱 When I am not infront of the computer, I love to explore the outdoors, create new coffee masterpieces, ☕
-(coffee enthusiast over here 👋🏾 )and learn new skills.</h4>
+(coffee enthusiast over here 👋🏾 )and learn new skills.</p>
 
 
