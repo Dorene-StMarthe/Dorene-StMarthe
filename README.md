@@ -1,6 +1,5 @@
 # Dorene-StMarthe
-<h2>Welcome!</h2>
-
+<h2>Welcome! <img align="center" src ="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/325/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.png" height = 50 /></a></h2>
 
 ![Black and White Minimalist Heart Wedding Banner](https://user-images.githubusercontent.com/57598320/175186660-1a4a8e6a-7d2e-42b3-85ef-e452c51c75a8.gif)
 <hr>
