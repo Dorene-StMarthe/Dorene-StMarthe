@@ -5,7 +5,7 @@
 <hr>
 <h3>Connect With Me</h3>
 
-<a href="https://www.youtube.com/c/DoreneCodes" target="blank"><img align="center" src ="https://img.icons8.com/color/344/youtube-play.png" height = 50 /></a><a href="https://www.linkedin.com/in/dorenestmarthe/(https://www.linkedin.com/in/dorenestmarthe/)" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin.png" height = 50 /></a><a href="https://www.instagram.com/pslovedorenee/" target="blank"><img align="center" src="https://img.icons8.com/color/344/instagram-new--v1.png" height = 50 /></a>
+<a href="https://www.youtube.com/c/DoreneCodes" target="blank"><img align="center" src ="https://img.icons8.com/color/344/youtube-play.png" height = 50 /></a><a href="https://www.linkedin.com/in/dorenestmarthe/" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin.png" height = 50 /></a><a href="https://www.instagram.com/pslovedorenee/" target="blank"><img align="center" src="https://img.icons8.com/color/344/instagram-new--v1.png" height = 50 /></a>
 
 <hr>
 
