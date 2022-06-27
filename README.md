@@ -12,6 +12,9 @@
 <p> 👩🏽‍🏫 I am an experienced educator that has worked with several teams of diverse experts.
 🎓 Currently I am enrolled at General Assembly and taking an Immersive Software Development course.
 🌱 When I am not infront of the computer, I love to explore the outdoors, create new coffee masterpieces, ☕
-(coffee enthusiast over here 👋🏾 )and learn new skills.</p>
+(coffee enthusiast over here 👋🏾 )and learn new skills. At present, I am taking on the 100 days of code challenge. </p>
+
+
+👩🏾‍💻 Days of Code start date: June 26, 2022👩🏾‍💻
 
 
