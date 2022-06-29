@@ -1,7 +1,8 @@
 # Dorene-StMarthe
 <h2>Welcome! <img align="center" src ="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/325/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.png" height = 50 /></a></h2>
 
-![Black and White Minimalist Heart Wedding Banner (1)](https://user-images.githubusercontent.com/57598320/176342532-5bae4000-0a01-4dfb-8786-c6f2e3498b75.gif)
+![Black and White Minimalist Heart Wedding Banner (2)](https://user-images.githubusercontent.com/57598320/176343680-13cd4b3d-da28-4057-abef-25c1e81b762f.gif)
+
 
 <hr>
 <h3>Connect With Me</h3>
