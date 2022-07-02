@@ -17,7 +17,7 @@
 (coffee enthusiast over here 👋🏾 )and learn new skills. At present, I am taking on the 100 days of code challenge. 🛸 </p>
 
 
-👩🏾‍💻 100 Days of Code start date: June 26, 2022👩🏾‍💻
+👩🏾‍💻 100 Days of Code start date: June 26, 2022👩🏾‍💻hgd
 
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
