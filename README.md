@@ -1,6 +1,6 @@
 # Dorene-StMarthe
 <div align="center">
-<h2>Welcome! <img align="center" src ="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/325/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.png" height = 50 /></a></h2>
+<h2>Hi There! <img align="center" src ="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/325/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.png" height = 50 /></a></h2>
 </div>
 
 
