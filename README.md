@@ -10,7 +10,10 @@
 <div align="center">
 <h3>Connect With Me</h3>
 <a href="https://www.youtube.com/c/DoreneCodes" target="blank"><img align="center" src ="https://img.icons8.com/color/344/youtube-play.png" height = 50 /></a><a href="https://www.linkedin.com/in/dorenestmarthe/" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin.png" height = 50 /></a><a href="https://twitter.com/pslovedorenee" target="blank"><img align="center" src="https://user-images.githubusercontent.com/57598320/213837075-10a25404-a861-4150-bf98-17f4ebf2022d.png" height = 38 /></a>
+<br>
+<a href="https://dorene-stmarthe.github.io/DoreneS.github.io/">View my live portfolio!</a>
 </div>
+
 
 <hr>
 
