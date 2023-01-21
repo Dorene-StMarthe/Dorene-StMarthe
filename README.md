@@ -17,7 +17,6 @@
 
 <hr>
 
-<p> 👩🏽‍🏫 I am an experienced educator that has worked with several teams of diverse experts. <br>
 🎓 I am a recent graduate of General Assembly, and have obtained a certification in their Immersive Software Engineering Program.<br>
 🌱 When I am not infront of the computer, I love to spend time with my loved ones, explore the outdoors, create new coffee masterpieces, (coffee enthusiast over here ☕️)and learn new skills. <br>
 🛸 At present, I am taking on the 100 days of code challenge and I am enjoying the learning process. </p>
