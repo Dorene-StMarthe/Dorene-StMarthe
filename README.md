@@ -3,8 +3,9 @@
 <h2>Hi There! <img align="center" src ="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/325/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.png" height = 50 /></a></h2>
 </div>
 
+![White Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/57598320/213835760-438f4f99-88d5-4b87-804e-3e093e317ce1.gif)
 
-![Black and White Minimalist Heart Wedding Banner (2)](https://user-images.githubusercontent.com/57598320/176343680-13cd4b3d-da28-4057-abef-25c1e81b762f.gif)
+
 
 
 <hr>
