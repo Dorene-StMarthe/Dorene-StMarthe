@@ -19,7 +19,7 @@
 <hr>
 <div>
 <h3 align="center">About Me</h3>
-🎓 I am a recent graduate of General Assembly, and have obtained a certification in their Immersive Software Engineering Program.<br>
+🎓 I am a recent graduate of General Assembly, and have obtained a Software Engineering certification in their Immersive Software Engineering Program.<br>
 🌱 When I am not infront of the computer, I love to spend time with my loved ones, explore the outdoors, create new coffee masterpieces, (coffee enthusiast over here ☕️) and learn new skills. <br>
 🛸 At present, I am taking on the 100 days of code challenge and I am enjoying the learning process. </p>
 👩🏾‍💻 100 Days of Code start date: January 20, 2023
