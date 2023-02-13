@@ -8,7 +8,7 @@
 <hr>
 
 <div align="center">
-<h3>Connect With Me</h3>
+<h2>Connect With Me</h2>
 <a href="https://www.youtube.com/c/DoreneCodes" target="blank"><img align="center" src ="https://img.icons8.com/color/344/youtube-play.png" height = 50 /></a><a href="https://www.linkedin.com/in/dorenestmarthe/" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin.png" height = 50 /></a><a href="https://twitter.com/pslovedorenee" target="blank"><img align="center" src="https://user-images.githubusercontent.com/57598320/213837075-10a25404-a861-4150-bf98-17f4ebf2022d.png" height = 38 /><a href="https://twitter.com/pslovedorenee" target="blank"></a><a href="mailto: dstmarth@gmail.com" target="blank"><img align="center" src ="https://user-images.githubusercontent.com/57598320/213840019-98ff597e-bc86-47b5-babc-af2ce8249a4b.png" height = 50 /></a>
   
 <br>
@@ -18,7 +18,7 @@
 
 <h>
 <div>
-<h3 align="center">About Me</h3>
+<h2 align="center">About Me</h2>
 🎓 I am a recent graduate of General Assembly, and have obtained a Software Engineering certification in their Immersive Software Engineering Program.<br>
 🌱 When I am not in front of the computer, I love to spend time with my loved ones, explore the outdoors, create new coffee masterpieces, (coffee enthusiast over here ☕️) and learn new skills. <br>
 🛸 At present, I am taking on the 100 days of code challenge and I am enjoying the learning process. </p>
@@ -27,7 +27,7 @@
 
 <hr>
 <div>
-<h3 align="center">Skills</h3>
+<h2 align="center">Skills</h2>
            
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
