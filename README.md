@@ -14,8 +14,6 @@
 <br>
   <h3><a href="https://dorene-stmarthe.github.io/DoreneS.github.io/">View my live portfolio!</a></h3>
 </div>
-
-
 <h>
 <div>
 <h2 align="center">About Me</h2>
