@@ -19,7 +19,7 @@
 <h2 align="center">About Me</h2>
 🎓 I am a recent graduate of General Assembly, and have obtained a Software Engineering certification in their Immersive Software Engineering Program.<br>
 🌱 When I am not in front of the computer, I love to spend time with my loved ones, explore the outdoors and create new coffee masterpieces, (coffee enthusiast over here ☕️).<br>
-🛸 At present, I am taking on the 100 days of code challenge and I am enjoying the learning process. </p>
+🛸 
 </div>
 
 <hr>
