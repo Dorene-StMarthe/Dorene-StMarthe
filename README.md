@@ -40,4 +40,4 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
  </div>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+ ![Dorene's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dorene-StMarthe&theme=dark&show_icons=true)
